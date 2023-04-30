@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Grid Layout</string>
+    <string name="cse">CSE</string>
+    <string name="csm">CSM</string>
+    <string name="cso">CSO</string>
+    <string name="csd">CSD</string>
+</resources>

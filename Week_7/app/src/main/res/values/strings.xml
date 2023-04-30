@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Table Layout</string>
+    <string name="cse">CSE</string>
+    <string name="csm">CSM</string>
+    <string name="cso">CSO</string>
+    <string name="csd">CSD</string>
+    <string name="ece">ECE</string>
+    <string name="eee">EEE</string>
+</resources>
